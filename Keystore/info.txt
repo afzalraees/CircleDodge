@@ -1,0 +1,5 @@
+Keystore Password - ccdodgeball
+Keystore Alias - alias
+Keystore Alias Password - ccdodgeball
+Package Name - com.s3atour.ccdodgeball
+Version - 1.0
